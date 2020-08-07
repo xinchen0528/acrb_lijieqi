@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ljq/Documents/drone_land/src/rl_navigation/src/rl_lib.cpp
+rl_lib.h
+/home/ljq/Documents/drone_land/src/rl_navigation/src/rl_lib.h
+
+/home/ljq/Documents/drone_land/src/rl_navigation/src/rl_lib.h
+iostream
+-
+math.h
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Geometry
+-
+

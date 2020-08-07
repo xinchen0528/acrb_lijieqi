@@ -1,0 +1,2 @@
+rl_launch:rl_navigation
+-DCATKIN_DEVEL_PREFIX=/home/ljq/Documents/drone_land/devel -DCMAKE_INSTALL_PREFIX=/home/ljq/Documents/drone_land/install -G Unix Makefiles

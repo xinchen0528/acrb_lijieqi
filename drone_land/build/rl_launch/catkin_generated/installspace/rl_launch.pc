@@ -1,0 +1,8 @@
+prefix=/home/ljq/Documents/drone_land/install
+
+Name: rl_launch
+Description: Description of rl_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
